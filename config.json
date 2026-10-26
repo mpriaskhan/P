@@ -15,7 +15,7 @@
   "OTPKEY": "Facebook 2FA Secret Key",
   "BOTNAME": "Tuhin",
   "PREFIX": "/",
-  "usePrefix": false,
+  "usePrefix": true,
   "reactUnsend": [
     "😡",
     "🤧",
@@ -24,7 +24,7 @@
   ],
   "ADMINBOT": [
     "61561494264519",
-    "100004225532317",
+    "61595328112991",
     "100044713412032"
   ],
   "DEVELOPER": [
